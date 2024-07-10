@@ -28,5 +28,5 @@ Below we see how the output looks like:
 
 ### SCENARIO 2:
 <p align="center">
-<image src="https://github.com/HafsaRafique/DEP/blob/main/images/Computer_won.png" width="500">
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/Computer_won.png" width="300">
 </p>
