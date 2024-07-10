@@ -1,10 +1,10 @@
 # DIGITAL EMPOWERMENT PAKISTAN
 This repository includes all tasks included in the internship program for a period of 4 weeks.
 
-## WEEK 1: TIC- TAC-TOE GAME USING MINIMAX ALGORITHM
-In a game of tic-tack-toe, the goal is to get 3 crosses/circles consecutively in a row/column or diagonally. Here, I have implemented a simple game using the minimax algorithm where the computer plays against the user.
+## WEEK 1: TIC-TAC-TOE GAME USING MINIMAX ALGORITHM
+In a game of tic-tac-toe, the goal is to get 3 crosses/circles consecutively in a row/column or diagonally. Here, I have implemented a simple game using the minimax algorithm where the computer plays against the user.
 ### STEPS:
-1.	The output of the game is displayed in a typical tick-tack-toe format and the program checks if a space has been filled beforehand.
+1.	The output of the game is displayed in a typical tic-tac-toe format and the program checks if a space has been filled beforehand.
    
 2.	We specify the conditions required to win the game i.e: to get 3 crosses consecutively in a row/column/diagonally.
    
