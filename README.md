@@ -21,10 +21,12 @@ In a game of tic-tack-toe, the goal is to get 3 crosses/circles consecutively in
 ### RESULTS:
 Below we see how the output looks like:
 
+### SCENARIO 1:
 <p align="center">
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/Game_tied.png" width="500">
 </p>
 
+### SCENARIO 2:
 <p align="center">
-<image src="https://github.com/HafsaRafique/DEP/blob/main/images/Computer_victory.png" width="500">
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/Computer_won.png" width="500">
 </p>
