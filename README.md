@@ -17,3 +17,14 @@ In a game of tic-tack-toe, the goal is to get 3 crosses/circles consecutively in
 6.	Based on this logic, the computer only makes the best move according to the best_score.
 
 7.	If conditions are met by X, then player wins. If conditions are met by O, then computer wins. If the board space is filled, and no conditions are met then it’s a tie.
+
+### RESULTS:
+Below we see how the output looks like:
+
+<p align="center">
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/Game_tied.png" width="500">
+</p>
+
+<p align="center">
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/Computer_victory.png" width="500">
+</p>
