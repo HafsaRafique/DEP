@@ -40,7 +40,7 @@ The following requirements were met:
    
 2. The first step was to install all relevant libraries, to handle the dataset, to split the dataset and to plot the results.
 
-3. The dataset was downloaded from Kaggle from the following link : (Spam email Dataset) [https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset]
+3. The dataset was downloaded from Kaggle from the following link : [Spam email Dataset] (https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
 
 4. The data was preprocessed and split into training and testing sets.
 
@@ -56,13 +56,13 @@ The following requirements were met:
 ### RESULTS OF TRAINING:
 The following shows the output of the trained classifier, the accuracy is shown to be around 99.4%:
 
-<p align="center">
+<p align="center" style="border: 3 px">
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/Classification_report.png" width="300">
 </p>
 
 The confusion matrix shows that the number of true positives and true negatives is significantly greater than false positives and negatives:
 
-<p align="center">
+<p align="center" style="border: 3 px">
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/Confusion_matrix.png" width="300">
 </p>
 
@@ -75,7 +75,7 @@ A test was conducted using sample texts from emails to check the classifier's pe
 
 We see that the classifier correctly identified the texts:
 
-<p align="center">
+<p align="center" style="border: 3 px">
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/output.png">
 </p>
    
