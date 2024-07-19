@@ -100,7 +100,7 @@ The following steps were followed:
 
 ### RESULTS:
 
-The model shows highest accuracy at the 30th epoch with 97% accurate results.
+The model shows highest accuracy at the 28th epoch with 97% accurate results.
 
 <p align="center" style="border: 1 px solid black;">
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/output_digits.png">
