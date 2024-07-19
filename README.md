@@ -74,8 +74,35 @@ A test was conducted using sample texts from emails to check the classifier's pe
 2. Hi, Looking forward to seeing you at the party.
 
 We see that the classifier correctly identified the texts:
-
+The
 <p align="center" style="border: 1 px solid black;">
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/output.png">
+</p>
+   
+
+## WEEK 3: Create a neural network from scratch using Python and NumPy to classify handwritten digits from the MNIST dataset.
+
+The following steps were followed:
+
+1. Download the MNIST Dataset from the keras library and split into testing and training data.
+
+2. Images are divided into 10 classes, the shape of the training and testing data suggests that images are 28x28 pixels.
+
+3. Encode the Y testing and training data.
+
+4. Build the network by using Convolutional Neural Network for optimized results. Add a 2D Convolutional layer to extract relevant features, Apply MaxPooling to reduce image dimensionality, Flatten the image and feed it to the Dense layer. Each dense layer represents a layer in the network. The input layer has 25 units, hidden layer has 15 units and output layer has 10 as this is a multiclassification problem.
+
+5. Specify the loss function, I have selected categorical cross entropy as there are more than 2 categories/classes.
+
+6. Train the model on 50-100 epochs.
+
+7. Test by feeding X_test data to the model and verfiying the predictions.
+
+### RESULTS:
+
+The model shows highest accuracy at the 30th epoch with 97% accurate results.
+
+<p align="center" style="border: 1 px solid black;">
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/output_digits.png">
 </p>
    
