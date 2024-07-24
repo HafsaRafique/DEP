@@ -106,7 +106,7 @@ The model shows highest accuracy at the 28th epoch with 97% accurate results.
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/output_digits.png" width=300>
 </p>
    
-## WEEK 4: Build a natural language processing (NLP) model to perform sentiment analysis onsocial media posts or product reviews.
+## WEEK 4: Build a natural language processing (NLP) model to perform sentiment analysis on social media posts or product reviews.
 
 ### STEPS:
 
