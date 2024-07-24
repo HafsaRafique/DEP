@@ -128,5 +128,5 @@ The steps involved were as follows:
 The model shows high accuracy on a sample review:
 
 <p align="center" style="border: 1 px solid black;">
-<image src="https://github.com/HafsaRafique/DEP/blob/main/images/test_review.png" width=300>
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/test_review.png">
 </p>
