@@ -106,3 +106,27 @@ The model shows highest accuracy at the 28th epoch with 97% accurate results.
 <image src="https://github.com/HafsaRafique/DEP/blob/main/images/output_digits.png" width=300>
 </p>
    
+## WEEK 4: Build a natural language processing (NLP) model to perform sentiment analysis onsocial media posts or product reviews.
+
+### STEPS:
+
+The steps involved were as follows:
+1.	IMDB reviews dataset was used from TensorFlow datasets.
+
+2.	The data was converted from TensorFlow format to Pandas format for easier manipulation.
+
+3.	Preprocessing was done to remove any uppercase letters, stopping words, numbers or special characters etc.
+   
+4.	We converted textual data into numerical data by means of a Vectorization algorithm, we used 5000 most frequent words in our vocabulary.
+
+5.	Support Vector Machine was selected for this task as it performs better on textual classification.
+
+6.	Model was fed training and testing data and evaluated to possess an accuracy of 87%.
+
+## RESULTS:
+
+The model shows high accuracy on a sample review:
+
+<p align="center" style="border: 1 px solid black;">
+<image src="https://github.com/HafsaRafique/DEP/blob/main/images/test_review.png" width=300>
+</p>
